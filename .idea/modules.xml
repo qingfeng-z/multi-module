@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/db-model/db-model.iml" filepath="$PROJECT_DIR$/db-model/db-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/entity/entity.iml" filepath="$PROJECT_DIR$/entity/entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-module.iml" filepath="$PROJECT_DIR$/multi-module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi-module-api/multi-module-api.iml" filepath="$PROJECT_DIR$/multi-module-api/multi-module-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/service.iml" filepath="$PROJECT_DIR$/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/util.iml" filepath="$PROJECT_DIR$/util/util.iml" />
+    </modules>
+  </component>
+</project>
